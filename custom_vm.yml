@@ -243,6 +243,6 @@ device:
     uplink_reset: reset
     virtualizable: custom_vmDevice
     vm_chunk: 1024
-    vids: [1A86]
-    pids: [7523]
+    vids: ["1A86"]
+    pids: ["7523"]
     

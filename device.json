@@ -46,7 +46,7 @@
     "name": "My Awesome Custom Device",
     "original_target": "cvm_espwroom32",
     "pids": [
-        7523
+        "7523"
     ],
     "preferred_baud": 115200,
     "ram": 200,
